@@ -1,0 +1,352 @@
+[
+  {
+    "germanWord": "das Kino",
+    "type": "noun,neutral",
+    "engMeaning": "cinema",
+    "exampleSentence": "Ich m\u00f6chte mir einen Film ansehen. Gehen wir ins Kino?",
+    "id": "75d710fd-4372-49d8-8ca9-23e4c54f6987"
+  },
+  {
+    "germanWord": "das Geb\u00e4ude",
+    "type": "noun,neutral",
+    "engMeaning": "building",
+    "exampleSentence": "In der Gro\u00dfstadt gibt es viele Geb\u00e4ude.",
+    "id": "50cbf563-313a-4f76-bfb7-6cb7c4134d05"
+  },
+  {
+    "germanWord": "das Dorf",
+    "type": "noun,neutral",
+    "engMeaning": "village",
+    "exampleSentence": "In unserem Dorf gibt es leider kein Kino.",
+    "id": "cd83664b-6852-4ebe-bb5a-0fc6b496b3f0"
+  },
+  {
+    "germanWord": "der Norden",
+    "type": "noun,masculine",
+    "engMeaning": "north",
+    "exampleSentence": "Im Norden ist es kalt.",
+    "id": "2e4b7c9d-dc9e-436d-b212-b5ea5a711d5e"
+  },
+  {
+    "germanWord": "der S\u00fcden",
+    "type": "noun,masculine",
+    "engMeaning": "south",
+    "exampleSentence": "Im S\u00fcden ist es warm.",
+    "id": "0603a442-0fef-4078-9a47-fbe87d0a49c7"
+  },
+  {
+    "germanWord": "der Osten",
+    "type": "noun,masculine",
+    "engMeaning": "east",
+    "exampleSentence": "Im Osten geht die Sonne auf.",
+    "id": "a4aa47e9-3139-42a6-bf2d-dc039212b67c"
+  },
+  {
+    "germanWord": "der Westen",
+    "type": "noun,masculine",
+    "engMeaning": "west",
+    "exampleSentence": "Im S\u00fcden geht die Sonne unter.",
+    "id": "b646bfb7-1b07-44a6-9ef9-55c33d7f9e42"
+  },
+  {
+    "germanWord": "das Kulturangebot",
+    "type": "noun,neutral",
+    "engMeaning": "cultural offer, cultural attractions",
+    "exampleSentence": "In Kleinst\u00e4dten gibt es ein nur ein kleines Kulturangebot.",
+    "id": "1037d90b-58db-4a28-84ab-49a97b3065ff"
+  },
+  {
+    "germanWord": "das Museum",
+    "type": "noun,neutral",
+    "engMeaning": "museum",
+    "exampleSentence": "Ich gehe gerne ins Museum.",
+    "id": "a65ea650-4bb6-4834-b768-c968f997fa57"
+  },
+  {
+    "germanWord": "das Theater",
+    "type": "noun,neutral",
+    "engMeaning": "theatre",
+    "exampleSentence": "Ich mag Theater lieber als Kino.",
+    "id": "f395c163-c329-4f3c-9c74-3597d311250d"
+  },
+  {
+    "germanWord": "die Diskothek",
+    "type": "noun,feminine",
+    "engMeaning": "disco, discotheque",
+    "exampleSentence": "In der Diskothek ist die Musik sehr laut.",
+    "id": "caa8de51-a68e-4051-b920-5f47ac80b9fe"
+  },
+  {
+    "germanWord": "die Natur",
+    "type": "noun,feminine",
+    "engMeaning": "nature",
+    "exampleSentence": "Ich gehe gerne mit meinem Hund drau\u00dfen in der Natur spazieren.",
+    "id": "8c70ba57-5085-4b87-a9c7-6f5a75a69e5a"
+  },
+  {
+    "germanWord": "der Park",
+    "type": "noun,masculine",
+    "engMeaning": "park",
+    "exampleSentence": "Morgen machen wir ein Picknick im Park.",
+    "id": "97dbe15d-e410-415e-a8f1-74b5ee82f7d4"
+  },
+  {
+    "germanWord": "der See",
+    "type": "noun,masculine",
+    "engMeaning": "lake",
+    "exampleSentence": "Am Wochenende fahren wir an den See.",
+    "id": "09d07841-2328-437c-83bc-2804b6763c7b"
+  },
+  {
+    "germanWord": "der Berg",
+    "type": "noun,masculine",
+    "engMeaning": "mountain",
+    "exampleSentence": "Der Mount Everest ist der h\u00f6chste Berg der Welt.",
+    "id": "02dca369-63e1-4aef-bb0b-0fa323326fac"
+  },
+  {
+    "germanWord": "die Himmelsrichtung",
+    "type": "noun,feminine",
+    "engMeaning": "cardinal direction",
+    "exampleSentence": "Norden ist eine Himmelsrichtung.",
+    "id": "660c4d05-d527-4c33-b398-e14b9d651f07"
+  },
+  {
+    "germanWord": "n\u00f6rdlich",
+    "type": "adjective",
+    "engMeaning": "north, northern",
+    "exampleSentence": "Tschechien liegt n\u00f6rdlich von \u00d6sterreich.",
+    "id": "2ce5b365-5ab1-4b8b-9fc8-ec1ccf81bafd"
+  },
+  {
+    "germanWord": "s\u00fcdlich",
+    "type": "adjective",
+    "engMeaning": "south, southern",
+    "exampleSentence": "Italien liegt s\u00fcdlich von der Schweiz.",
+    "id": "a4717d73-fb71-49ea-8686-4e8aa3e2769e"
+  },
+  {
+    "germanWord": "\u00f6stlich",
+    "type": "adjective",
+    "engMeaning": "east, eastern",
+    "exampleSentence": "Polen liegt \u00f6stlich von Deutschland.",
+    "id": "27cc02ea-8660-47e7-aa62-d89b13c7bcfd"
+  },
+  {
+    "germanWord": "westlich",
+    "type": "adjective",
+    "engMeaning": "west, western",
+    "exampleSentence": "Frankreich liegt westlich von der Schweiz.",
+    "id": "94090d0e-c4c5-4b84-934d-c316017796f9"
+  },
+  {
+    "germanWord": "die Kirche",
+    "type": "noun,feminine",
+    "engMeaning": "church",
+    "exampleSentence": "Eine Kirche ist ein christliches Gotteshaus.",
+    "id": "76ee9db4-bedc-48f9-8027-15345ac5ba52"
+  },
+  {
+    "germanWord": "die Bibliothek",
+    "type": "noun,feminine",
+    "engMeaning": "library",
+    "exampleSentence": "Die Bibliothek ist neben der Kirche.",
+    "id": "2de6359a-c8b7-4adf-9a37-b9691598e02a"
+  },
+  {
+    "germanWord": "ein Buch ausleihen",
+    "type": "phrase",
+    "engMeaning": "to borrow a book",
+    "exampleSentence": "Zur Recherche leihe ich mir B\u00fccher aus.",
+    "id": "2d28af73-47cd-4095-bcde-aa27b33f3b79"
+  },
+  {
+    "germanWord": "ein paar",
+    "type": "phrase",
+    "engMeaning": "some, a few",
+    "exampleSentence": "Ich habe nicht viele B\u00fccher im Regal, nur ein paar.",
+    "id": "78eea265-6305-44c9-8628-e001eafd86f2"
+  },
+  {
+    "germanWord": "viel los sein",
+    "type": "phrase",
+    "engMeaning": "there is a lot going on, to be busy (a place)",
+    "exampleSentence": "In der Stadt ist am Wochenende viel los.",
+    "id": "62a400cb-0406-4e7e-bd3f-748fa84b081f"
+  },
+  {
+    "germanWord": "in der N\u00e4he (von)",
+    "type": "phrase",
+    "engMeaning": "around, close to",
+    "exampleSentence": "Das Kino ist in der N\u00e4he (von) der Kirche.",
+    "id": "c14cc2d7-70fd-4f5e-9e0c-5b090fcf821e"
+  },
+  {
+    "germanWord": "die Kreuzung",
+    "type": "noun,feminine",
+    "engMeaning": "junction, crossing",
+    "exampleSentence": "Siehst du die Kreuzung da vorne?",
+    "id": "c12be533-0476-457b-9b35-fd8507274475"
+  },
+  {
+    "germanWord": "abbiegen",
+    "type": "verb",
+    "engMeaning": "to make a turn",
+    "exampleSentence": "Hier musst du nach links abbiegen.",
+    "id": "3f78cf05-b901-4fd0-bb9e-0d83055ebbcc"
+  },
+  {
+    "germanWord": "suchen",
+    "type": "verb",
+    "engMeaning": "to seek, to search for",
+    "exampleSentence": "Ich suche eine Bank. Wei\u00dft du, wo eine ist?",
+    "id": "6c7f2142-cb5e-49f0-aebd-5caf391c2e9a"
+  },
+  {
+    "germanWord": "der Weg",
+    "type": "noun,masculine",
+    "engMeaning": "way, path",
+    "exampleSentence": "Ist das der Weg zum Kino?",
+    "id": "c6ecd491-5d0a-4789-a0af-6fa91dce8842"
+  },
+  {
+    "germanWord": "die Ecke",
+    "type": "noun,feminine",
+    "engMeaning": "corner",
+    "exampleSentence": "An der Ecke ist ein kleiner Laden.",
+    "id": "9b37b9ea-1df0-4e11-aa99-7dd33a247384"
+  },
+  {
+    "germanWord": "jemanden ansprechen",
+    "type": "verb",
+    "engMeaning": "to approach sb. (for a specific purpose)",
+    "exampleSentence": "Sprichst du jemanden an, wenn du den Weg nicht wei\u00dft?",
+    "id": "38ebc793-d757-47b0-858a-31bce4893873"
+  },
+  {
+    "germanWord": "sich bedanken",
+    "type": "verb",
+    "engMeaning": "to thank",
+    "exampleSentence": "Ich bedanke mich bei meinen G\u00e4sten.",
+    "id": "4e3ccc6c-b8e6-42b6-b8d4-d461b20f8472"
+  },
+  {
+    "germanWord": "das Krankenhaus",
+    "type": "noun,neutral",
+    "engMeaning": "hospital",
+    "exampleSentence": "Ich besuche meinen Bruder im Krankenhaus.",
+    "id": "aed98c63-2245-4eef-ab6d-2f1f7e9e4954"
+  },
+  {
+    "germanWord": "die Apotheke",
+    "type": "noun,feminine",
+    "engMeaning": "pharmacy",
+    "exampleSentence": "Die Apotheke ist im Einkaufszentrum.",
+    "id": "85481ccb-9bd4-460b-b7b2-c0758a2a8b07"
+  },
+  {
+    "germanWord": "das Hotel",
+    "type": "noun,neutral",
+    "engMeaning": "hotel",
+    "exampleSentence": "Das Hotel ist sehr sch\u00f6n.",
+    "id": "2c03790b-0498-4397-b5c6-7ec3b9c2fca8"
+  },
+  {
+    "germanWord": "die Bank",
+    "type": "noun,feminine",
+    "engMeaning": "bank",
+    "exampleSentence": "Bei der Bank habe ich ein Konto.",
+    "id": "cb231256-c9ed-4a84-a9e7-2429b96cfcb6"
+  },
+  {
+    "germanWord": "das Einkaufszentrum",
+    "type": "noun,neutral",
+    "engMeaning": "shopping mall",
+    "exampleSentence": "Am Wochenende gehe ich ins Einkaufszentrum.",
+    "id": "7bca7f58-a723-406c-81cb-99bac597e80c"
+  },
+  {
+    "germanWord": "Geld abheben",
+    "type": "phrase",
+    "engMeaning": "to withdraw money",
+    "exampleSentence": "Bei der Bank kann ich Geld abheben.",
+    "id": "7b7e2139-9f3f-4c9b-b270-7e0e9e28a3ed"
+  },
+  {
+    "germanWord": "einen Flug buchen",
+    "type": "phrase",
+    "engMeaning": "to book a flight",
+    "exampleSentence": "Wir k\u00f6nnen den Flug online buchen.",
+    "id": "81cf6422-47a8-4691-a8eb-c84aa2a6b41d"
+  },
+  {
+    "germanWord": "ein Zimmer reservieren",
+    "type": "phrase",
+    "engMeaning": "to book a room",
+    "exampleSentence": "Wir reservieren ein Zimmer im Hostel.",
+    "id": "0b9c8532-80a2-4b54-8eb6-54465ba75770"
+  },
+  {
+    "germanWord": "einsteigen",
+    "type": "verb",
+    "engMeaning": "to embark, to enter",
+    "exampleSentence": "Wir steigen in Leipzig-Hauptbahnhof ein.",
+    "id": "b308c786-d90d-4ba7-bebd-566d2c9a83be"
+  },
+  {
+    "germanWord": "die Station",
+    "type": "noun,feminine",
+    "engMeaning": "station",
+    "exampleSentence": "Wie viele Stationen sind es vom Hauptbahnhof bis zum Ostbahnhof?",
+    "id": "dc0b8eb1-da67-4d1c-b94b-052cd06e0831"
+  },
+  {
+    "germanWord": "umsteigen",
+    "type": "verb",
+    "engMeaning": "to transfer, to change (trains)",
+    "exampleSentence": "M\u00fcssen wir umsteigen?",
+    "id": "ebf9a85e-b6d2-4470-add8-ddfcaedf70ff"
+  },
+  {
+    "germanWord": "die Richtung",
+    "type": "noun,feminine",
+    "engMeaning": "direction, course",
+    "exampleSentence": "In welche Richtung fahren wir?",
+    "id": "bdac3379-aa58-4a5f-ae5c-78499cccfcbb"
+  },
+  {
+    "germanWord": "die U-Bahn",
+    "type": "noun,feminine",
+    "engMeaning": "metro, subway",
+    "exampleSentence": "In Gro\u00dfst\u00e4dten fahren U-Bahnen.",
+    "id": "6764b70c-00bd-45d0-bde0-83b73cbb80c0"
+  },
+  {
+    "germanWord": "die S-Bahn",
+    "type": "noun,feminine",
+    "engMeaning": "commuter train, city train",
+    "exampleSentence": "Die S-Bahn f\u00e4hrt schnell durch die Stadt.",
+    "id": "d62a5af9-d1ec-4368-b216-5c0c52b3a302"
+  },
+  {
+    "germanWord": "die (Bus-)Haltestelle",
+    "type": "noun,feminine",
+    "engMeaning": "(bus) stop",
+    "exampleSentence": "Wo ist die n\u00e4chste (Bus-)Haltestelle?",
+    "id": "786e3c7e-75ef-49ec-a2ee-ea115ef56408"
+  },
+  {
+    "germanWord": "aussteigen",
+    "type": "verb",
+    "engMeaning": "to exit",
+    "exampleSentence": "Wo m\u00fcssen wir aussteigen?",
+    "id": "1a08a822-f366-412e-abcc-32d7c4d8b740"
+  },
+  {
+    "germanWord": "die Fahrt",
+    "type": "noun,feminine",
+    "engMeaning": "journey, ride",
+    "exampleSentence": "Die Fahrt vom Museum nach Hause dauert sehr lange.",
+    "id": "06fc183a-f3da-4558-95d8-9626bff96993"
+  }
+]

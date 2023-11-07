@@ -1,0 +1,275 @@
+[
+  {
+    "germanWord": "das Ger\u00e4t",
+    "type": "noun,neutral",
+    "engMeaning": "device, appliance",
+    "exampleSentence": "In der K\u00fcche sind viele Ger\u00e4te.",
+    "id": "0244b9cc-6e8b-4d4f-b967-8dc66e1072ad"
+  },
+  {
+    "germanWord": "der Stock",
+    "type": "noun,masculine",
+    "engMeaning": "floor, story",
+    "exampleSentence": "Wir wohnen im dritten Stock.",
+    "id": "f6bd26fa-ef16-482d-afa5-04ef9f4ec0e7"
+  },
+  {
+    "germanWord": "der Balkon",
+    "type": "noun,masculine",
+    "engMeaning": "balcony",
+    "exampleSentence": "Habt ihr einen Balkon?",
+    "id": "c9688eb9-5ce1-4ca7-84fc-10d17f36557b"
+  },
+  {
+    "germanWord": "die Badewanne",
+    "type": "noun,feminine",
+    "engMeaning": "bathtub",
+    "exampleSentence": "Habt ihr eine Badewanne?",
+    "id": "d5b74fa1-0890-4c6a-9eec-bc5ffa920e5a"
+  },
+  {
+    "germanWord": "die Miete",
+    "type": "noun,feminine",
+    "engMeaning": "the rent, the lease",
+    "exampleSentence": "Wohnst du zur Miete?",
+    "id": "6322b544-09de-4099-9c64-3897ae4fe553"
+  },
+  {
+    "germanWord": "sich freuen \u00fcber",
+    "type": "verb",
+    "engMeaning": "to be glad about sth. / to rejoice over sth.",
+    "exampleSentence": "Ich freue mich \u00fcber das neue Sofa.",
+    "id": "4e267735-91bb-48d3-a331-c49f6186090e"
+  },
+  {
+    "germanWord": "das Erdgeschoss",
+    "type": "noun,neutral",
+    "engMeaning": "ground floor, main floor",
+    "exampleSentence": "Meine Oma wohnt im Erdgeschoss.",
+    "id": "73ec1ccd-a563-4fea-bf61-a4c30d4f862d"
+  },
+  {
+    "germanWord": "der Aufzug",
+    "type": "noun,masculine",
+    "engMeaning": "elevator / lift",
+    "exampleSentence": "Ich fahre mit dem Aufzug in den vierten Stock.",
+    "id": "a51270e5-dc38-420c-836c-473b9b9e5d6c"
+  },
+  {
+    "germanWord": "die Treppe",
+    "type": "noun,feminine",
+    "engMeaning": "stairs, staircase",
+    "exampleSentence": "Ich wohne im vierten Stock und muss jeden Tag die Treppe hochgehen.",
+    "id": "3afee267-4102-4d7a-91c0-f3a2a5016e7c"
+  },
+  {
+    "germanWord": "die K\u00fcche",
+    "type": "noun,feminine",
+    "engMeaning": "kitchen",
+    "exampleSentence": "Wir haben eine gro\u00dfe K\u00fcche.",
+    "id": "a04a09b8-d27f-4df1-8bc3-bfc5381666c9"
+  },
+  {
+    "germanWord": "der Flur",
+    "type": "noun,masculine",
+    "engMeaning": "hall, hallway",
+    "exampleSentence": "Der Flur verbindet alle R\u00e4ume.",
+    "id": "5ade2187-1f4e-41cd-90b1-b60334a5413c"
+  },
+  {
+    "germanWord": "Der Flur verbindet alle",
+    "type": "R\u00e4ume.",
+    "engMeaning": "Schrank noun,masculine",
+    "exampleSentence": "cupboard, cabinet",
+    "id": "f8fce1a8-e06b-4ba2-af2b-afde3ccfc328"
+  },
+  {
+    "germanWord": "der Schrank",
+    "type": "noun,masculine",
+    "engMeaning": "cupboard, cabinet",
+    "exampleSentence": "Der Schrank steht im Flur.",
+    "id": "a1137da9-cf07-41e4-ab2a-b41131c37a41"
+  },
+  {
+    "germanWord": "das Regal",
+    "type": "noun,neutral",
+    "engMeaning": "rack, shelf",
+    "exampleSentence": "Im Kinderzimmer steht ein gro\u00dfes Regal mit Spielsachen.",
+    "id": "28a99e5a-5a3e-469b-9fc8-93b8984d62f8"
+  },
+  {
+    "germanWord": "das Sofa",
+    "type": "noun,neutral",
+    "engMeaning": "sofa",
+    "exampleSentence": "Unser Sofa ist sehr gem\u00fctlich.",
+    "id": "eeb05640-8754-4067-9071-ba2a285525b6"
+  },
+  {
+    "germanWord": "der Herd",
+    "type": "noun,masculine",
+    "engMeaning": "stove, cooker",
+    "exampleSentence": "Vorsicht, der Herd ist hei\u00df!",
+    "id": "7cddf04f-d450-4a61-b1e0-4b99b96e8606"
+  },
+  {
+    "germanWord": "der K\u00fchlschrank",
+    "type": "noun,masculine",
+    "engMeaning": "refridgerator",
+    "exampleSentence": "Im K\u00fchlschrank bleiben die Lebensmittel lange frisch.",
+    "id": "b99eaa7c-2a66-4e40-b5f2-8b8977acd1fc"
+  },
+  {
+    "germanWord": "die Sp\u00fcle",
+    "type": "noun,feminine",
+    "engMeaning": "sink, sink unit",
+    "exampleSentence": "Die Sp\u00fcle steht neben dem K\u00fchlschrank.",
+    "id": "e63d3b57-72f0-4b9d-a342-269f0e7e9a22"
+  },
+  {
+    "germanWord": "der Toaster",
+    "type": "noun,masculine",
+    "engMeaning": "toaster",
+    "exampleSentence": "Der Toaster macht das Brot warm und kross.",
+    "id": "961db385-6194-4095-ab87-09679f2f2f2d"
+  },
+  {
+    "germanWord": "die Waschmaschine",
+    "type": "noun,feminine",
+    "engMeaning": "washing machine",
+    "exampleSentence": "Unsere Waschmaschine steht im Bad.",
+    "id": "a7931e26-49e2-47f9-91cc-09cea2595e28"
+  },
+  {
+    "germanWord": "der Wasserkocher",
+    "type": "noun,masculine",
+    "engMeaning": "water boiler, water kettle",
+    "exampleSentence": "Der Wasserkocher macht das Wasser schnell hei\u00df.",
+    "id": "fefa642f-b578-4a74-b565-ff27241d1781"
+  },
+  {
+    "germanWord": "zum Schluss",
+    "type": "phrase",
+    "engMeaning": "at the end, finally",
+    "exampleSentence": "Erst sp\u00fcle ich die Teller ab, dann die Tassen und zum Schluss die",
+    "id": "2e83c407-216f-4511-a4de-2e56227f67df"
+  },
+  {
+    "germanWord": "gem\u00fctlich",
+    "type": "adjective",
+    "engMeaning": "cozy",
+    "exampleSentence": "Unser Bett ist sehr gem\u00fctlich.",
+    "id": "224d0b72-1f68-4702-ad18-00197e12cd38"
+  },
+  {
+    "germanWord": "stehen",
+    "type": "verb",
+    "engMeaning": "to stand, to be up",
+    "exampleSentence": "DShkthtbdBtt",
+    "id": "e9943e34-9338-446a-81e8-ebc7497fe367"
+  },
+  {
+    "germanWord": "nah",
+    "type": "adjective",
+    "engMeaning": "near, close",
+    "exampleSentence": "Claudia wohnt nah am Stadtzentrum.",
+    "id": "76a9cfb8-469b-459d-aaa2-93a8f70894ff"
+  },
+  {
+    "germanWord": "der Wald",
+    "type": "noun,masculine",
+    "engMeaning": "forest",
+    "exampleSentence": "Im Wald gibt es viele B\u00e4ume und viele Tiere.",
+    "id": "c53b2efa-d1d9-46fc-8091-f89e43be90f4"
+  },
+  {
+    "germanWord": "hell",
+    "type": "adjective",
+    "engMeaning": "bright, light",
+    "exampleSentence": "Im Bad gibt es ein Fenster und die W\u00e4nde sind wei\u00df. Es ist sehr hell.",
+    "id": "7f0fabcc-4b7f-4fba-826b-e8d8f2ea3d29"
+  },
+  {
+    "germanWord": "modern",
+    "type": "adjective",
+    "engMeaning": "John und Louise haben ein modernes Sofa.",
+    "exampleSentence": "Fenster noun,neutral",
+    "id": "77f042c1-b92a-429c-9488-027252ce8610"
+  },
+  {
+    "germanWord": "das Fenster",
+    "type": "noun,neutral",
+    "engMeaning": "window",
+    "exampleSentence": "Unser Bad hat leider kein Fenster.",
+    "id": "576d6791-0848-4f90-8106-c17eeba49673"
+  },
+  {
+    "germanWord": "die T\u00fcr",
+    "type": "noun,feminine",
+    "engMeaning": "door",
+    "exampleSentence": "Die T\u00fcr ist offen.",
+    "id": "8b996ca3-b2d5-4a3b-a79a-b71ba0023698"
+  },
+  {
+    "germanWord": "ziemlich",
+    "type": "adjective",
+    "engMeaning": "quite, fairly",
+    "exampleSentence": "Das Sofa ist sch\u00f6n, aber ziemlich teuer.",
+    "id": "6c415bb0-23ed-47ca-821f-941f64b63706"
+  },
+  {
+    "germanWord": "billig",
+    "type": "adjective",
+    "engMeaning": "cheap , tacky",
+    "exampleSentence": "Der Schrank sieht billig aus.",
+    "id": "bbca48e9-fa05-419f-9519-1652f6a8ceb1"
+  },
+  {
+    "germanWord": "dunkel",
+    "type": "adjective",
+    "engMeaning": "dark, sombre",
+    "exampleSentence": "Der Tisch ist zu dunkel.",
+    "id": "0b283cd7-2239-49d3-ac50-8548d3ae738f"
+  },
+  {
+    "germanWord": "recht haben",
+    "type": "phrase",
+    "engMeaning": "to be in the right / to be right",
+    "exampleSentence": "Du hast recht, das Sofa ist zu klein.",
+    "id": "3a213718-43cf-4491-be38-0352f7c420a5"
+  },
+  {
+    "germanWord": "h\u00e4sslich",
+    "type": "adjective",
+    "engMeaning": "ugly, nasty",
+    "exampleSentence": "Ich finde das Sofa leider h\u00e4sslich.",
+    "id": "f93ff229-3d7a-41f3-954d-e284c2a5ebb6"
+  },
+  {
+    "germanWord": "die Million",
+    "type": "noun,feminine",
+    "engMeaning": "million",
+    "exampleSentence": "Das Haus kostet eine Million Euro.",
+    "id": "b667e0a3-abb6-457e-b037-bec6a4835ad6"
+  },
+  {
+    "germanWord": "elegant",
+    "type": "adjective",
+    "engMeaning": "smart, fashionable",
+    "exampleSentence": "Das Sofa sieht sehr elegant aus.",
+    "id": "cab7f73c-66d3-4017-bbdd-edab3959d198"
+  },
+  {
+    "germanWord": "breit",
+    "type": "adjective",
+    "engMeaning": "broad, wide",
+    "exampleSentence": "Der Tisch passt nicht ins Zimmer. Er ist leider zu breit.",
+    "id": "63654acb-1da4-4a6f-a971-45bef75b6512"
+  },
+  {
+    "germanWord": "hoch",
+    "type": "adjective",
+    "engMeaning": "high, tall",
+    "exampleSentence": "Der Schrank ist zu hoch.",
+    "id": "106ba442-af74-4eaa-9bf0-296125122067"
+  }
+]

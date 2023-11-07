@@ -1,0 +1,296 @@
+[
+  {
+    "germanWord": "die Bank",
+    "type": "noun,feminine",
+    "engMeaning": "bank",
+    "exampleSentence": "Bei der Bank habe ich ein Konto.",
+    "id": "8833027f-e582-4e87-b79f-b10820dc2dff"
+  },
+  {
+    "germanWord": "Dienstleistung",
+    "type": "noun,feminine",
+    "engMeaning": "service",
+    "exampleSentence": "Friseur und Handwerker sind Beispiele f\u00fcr Dienstleistungen.",
+    "id": "700425de-250c-4293-bf7a-0b8f90085c73"
+  },
+  {
+    "germanWord": "etwas erledigen",
+    "type": "verb",
+    "engMeaning": "to take care of sth. , to get something done",
+    "exampleSentence": "Ich muss heute Abend noch etwas f\u00fcr die Uni erledigen.",
+    "id": "7d27dd2e-80c2-4e78-8573-524d27ab134c"
+  },
+  {
+    "germanWord": "die Reinigung",
+    "type": "noun,feminine",
+    "engMeaning": "dry-cleaner",
+    "exampleSentence": "Ich gebe meinen schmutzigen Blazer in die Reinigung.",
+    "id": "1f80f7c3-751c-4457-8fd9-d62011bb4cfc"
+  },
+  {
+    "germanWord": "der Friseur",
+    "type": "noun,masculine",
+    "engMeaning": "hairdresser, barber",
+    "exampleSentence": "Der Friseur schneidet meine Haare.",
+    "id": "eeb1f62b-06d7-418b-927f-106a26a509af"
+  },
+  {
+    "germanWord": "die Drogerie",
+    "type": "noun,feminine",
+    "engMeaning": "drugstore",
+    "exampleSentence": "Ich brauche Duschgel, ich muss zur Drogerie.",
+    "id": "e64c66c0-a7b8-4eef-a6f5-bccc03d5c306"
+  },
+  {
+    "germanWord": "das Reiseb\u00fcro",
+    "type": "noun,neutral",
+    "engMeaning": "tourist agency/office",
+    "exampleSentence": "Das Reiseb\u00fcro hat gute Angebote f\u00fcr Last-Minute-Reisen.",
+    "id": "67e688f4-77da-4ec7-a6ff-5c4f11ba3115"
+  },
+  {
+    "germanWord": "sich die Haare schneiden/f\u00e4rben/f\u00f6hnen lassen",
+    "type": "phrase",
+    "engMeaning": "to get one's hair cut/dyed/blow-dried",
+    "exampleSentence": "Meine Mutter war beim Friseur. Sie hat sich die Haare schneiden, f\u00e4rben",
+    "id": "ab2b3c8d-28ef-4b7b-97c8-88849abe241e"
+  },
+  {
+    "germanWord": "die Altstadt",
+    "type": "noun,feminine",
+    "engMeaning": "historic city, old city",
+    "exampleSentence": "Prag hat eine wundersch\u00f6ne Altstadt.",
+    "id": "ddf58f22-d454-4905-971a-3b0c1bd46c27"
+  },
+  {
+    "germanWord": "das Shoppingcenter",
+    "type": "noun,neutral",
+    "engMeaning": "shopping mall",
+    "exampleSentence": "Im Shoppingcenter ist am Wochenende viel los.",
+    "id": "0e2f15b7-0c10-45e8-9f9c-abeda02aa35f"
+  },
+  {
+    "germanWord": "die Fu\u00dfg\u00e4ngerzone",
+    "type": "noun,feminine",
+    "engMeaning": "pedestrian area",
+    "exampleSentence": "In der Fu\u00dfg\u00e4ngerzone gibt es viele kleine Gesch\u00e4fte.",
+    "id": "bc5da405-bff0-4dd2-8053-1ed81f527fa7"
+  },
+  {
+    "germanWord": "das Br\u00f6tchen",
+    "type": "noun,neutral",
+    "engMeaning": "roll, bun",
+    "exampleSentence": "Gehst du Br\u00f6tchen holen?",
+    "id": "730ddac7-3688-4443-8815-ade545a10eee"
+  },
+  {
+    "germanWord": "der Keks",
+    "type": "noun,masculine",
+    "engMeaning": "biscuit, cookie",
+    "exampleSentence": "Isst du gerne Kekse?",
+    "id": "ae7b3aeb-587b-45ca-996d-419c510f4d25"
+  },
+  {
+    "germanWord": "der Kuchen",
+    "type": "noun,masculine",
+    "engMeaning": "pie, cake",
+    "exampleSentence": "Ich liebe Kuchen!",
+    "id": "b5413d0b-6702-4d41-8221-a0e53b221ce5"
+  },
+  {
+    "germanWord": "die Torte",
+    "type": "noun,feminine",
+    "engMeaning": "cake (gateau), tart",
+    "exampleSentence": "Ich h\u00e4tte gern ein St\u00fcck Torte, bitte.",
+    "id": "672ce9b0-abff-491c-843e-f8a4d813ae85"
+  },
+  {
+    "germanWord": "die (Streusel-)Schnecke",
+    "type": "noun,feminine",
+    "engMeaning": "sweet German pastry",
+    "exampleSentence": "Ich h\u00e4tte gerne eine Streuselschnecke, bitte.",
+    "id": "f8d76e18-432f-41b3-8967-7755f9a1f338"
+  },
+  {
+    "germanWord": "die (K\u00e4se-)Schnitte",
+    "type": "noun,feminine",
+    "engMeaning": "sweet German pastry",
+    "exampleSentence": "Ich nehme zwei K\u00e4seschnitten.",
+    "id": "44d5ef41-237b-42e8-b075-1c922860b004"
+  },
+  {
+    "germanWord": "das Croissant",
+    "type": "noun,neutral",
+    "engMeaning": "croissant",
+    "exampleSentence": "Croissants sind viel leckerer als Br\u00f6tchen.",
+    "id": "08a0d9e6-4580-4714-82c9-c3f8c2583fa4"
+  },
+  {
+    "germanWord": "der Streusel",
+    "type": "noun,masculine",
+    "engMeaning": "crumbles",
+    "exampleSentence": "Auf meinem Kuchen sind Streusel.",
+    "id": "a6ae32d9-0f5b-4932-addb-0cd302783932"
+  },
+  {
+    "germanWord": "die Kirsche",
+    "type": "noun,feminine",
+    "engMeaning": "cherry",
+    "exampleSentence": "Kirschen sind mein Lieblingsobst.",
+    "id": "696938ec-79ab-4577-b59b-4a5ad004bbb7"
+  },
+  {
+    "germanWord": "der Sesam",
+    "type": "noun,masculine",
+    "engMeaning": "sesame",
+    "exampleSentence": "Sesam ist lecker.",
+    "id": "ca6d7bec-9b67-46d8-9ae9-a560a414b06a"
+  },
+  {
+    "germanWord": "die Rosine",
+    "type": "noun,feminine",
+    "engMeaning": "raisin",
+    "exampleSentence": "Ich mag keine Rosinen.",
+    "id": "9fcc7cb4-a71e-431e-977d-54bbb66c9325"
+  },
+  {
+    "germanWord": "die Scheibe",
+    "type": "noun,feminine",
+    "engMeaning": "slice",
+    "exampleSentence": "Kannst du mir bitte eine Scheibe Brot schneiden?",
+    "id": "6810e81e-9b57-47e8-b1ca-61e429380030"
+  },
+  {
+    "germanWord": "der Korb",
+    "type": "noun,masculine",
+    "engMeaning": "basket",
+    "exampleSentence": "Im Korb liegen vier Br\u00f6tchen.",
+    "id": "539e7880-87e5-4469-9b55-4175041ea353"
+  },
+  {
+    "germanWord": "der Rand",
+    "type": "noun,masculine",
+    "engMeaning": "verge, edge",
+    "exampleSentence": "Das Wei\u00dfbrot liegt am Rand von der Vitrine.",
+    "id": "c09a0e50-bfa5-41de-9bce-b1ac354ea659"
+  },
+  {
+    "germanWord": "die Vitrine",
+    "type": "noun,feminine",
+    "engMeaning": "cabinet, showcase",
+    "exampleSentence": "Die Vitrine hat T\u00fcren aus Glas.",
+    "id": "be14e7d3-7ed3-4d95-99be-9273d677dce4"
+  },
+  {
+    "germanWord": "die Postkarte",
+    "type": "noun,feminine",
+    "engMeaning": "postal card",
+    "exampleSentence": "Ich schreibe gerne Postkarten.",
+    "id": "9e324e30-ea37-4e88-a1ce-ee13391b8b9f"
+  },
+  {
+    "germanWord": "das Paket",
+    "type": "noun,neutral",
+    "engMeaning": "parcel, package",
+    "exampleSentence": "Ein Paket ist gr\u00f6\u00dfer als ein P\u00e4ckchen.",
+    "id": "9affd9a7-9c27-4071-8b97-d2d7d2d18f52"
+  },
+  {
+    "germanWord": "das P\u00e4ckchen",
+    "type": "noun,neutral",
+    "engMeaning": "small package, sachet",
+    "exampleSentence": "Ein P\u00e4ckchen ist kleiner als ein Paket.",
+    "id": "0a862e71-0836-4aef-a37b-b4a06a14ff09"
+  },
+  {
+    "germanWord": "die Postbote",
+    "type": "noun,masculine",
+    "engMeaning": "mailman, mailwoman",
+    "exampleSentence": "Der Postbote bringt Briefe und Postkarten.",
+    "id": "4020fc29-a0c1-457e-884e-f691080feaa3"
+  },
+  {
+    "germanWord": "der Zettel",
+    "type": "noun,masculine",
+    "engMeaning": "note, slip of paper",
+    "exampleSentence": "Auf dem Zettel steht, dass ich mein Paket bei meinem Nachbarn abholen",
+    "id": "762c6663-86f0-4892-a9ab-56645130b2f3"
+  },
+  {
+    "germanWord": "der Empf\u00e4nger",
+    "type": "noun,masculine",
+    "engMeaning": "recipient",
+    "exampleSentence": "Der Postbote wirft den Brief beim Empf\u00e4nger in den Briefkasten.",
+    "id": "bbd52ab2-302b-4eb7-aee1-fd10188881f9"
+  },
+  {
+    "germanWord": "der Absender",
+    "type": "noun,masculine",
+    "engMeaning": "sender",
+    "exampleSentence": "Mein Vater schreibt mir einen Brief. Er ist der Absender.",
+    "id": "226bb33b-f972-4cec-a782-a9dec5ec3e01"
+  },
+  {
+    "germanWord": "die Briefmarke",
+    "type": "noun,feminine",
+    "engMeaning": "postage stamp",
+    "exampleSentence": "Eine Briefmarke f\u00fcr eine Postkarte kostet 0,70 \u20ac.",
+    "id": "6decad2e-6b30-49a8-af51-17eddf8ab4ed"
+  },
+  {
+    "germanWord": "der Briefkasten",
+    "type": "noun,masculine",
+    "engMeaning": "mailbox, postbox",
+    "exampleSentence": "An meinem Briefkasten steht mein Nachname.",
+    "id": "444725c8-295c-4b9d-9220-b686348d0c72"
+  },
+  {
+    "germanWord": "der (Brief-)Umschlag",
+    "type": "noun,masculine",
+    "engMeaning": "envelope",
+    "exampleSentence": "Auf den Briefumschlag schreibe ich die Adresse des Empf\u00e4ngers.",
+    "id": "9ff1b3dc-2138-48bf-ad39-a8d2a4c4d7d2"
+  },
+  {
+    "germanWord": "das Porto",
+    "type": "noun,neutral",
+    "engMeaning": "postage, postal charges",
+    "exampleSentence": "Bei der Post muss man Porto bezahlen.",
+    "id": "79721ee6-57b0-43e9-b248-106bd1a81388"
+  },
+  {
+    "germanWord": "frankieren",
+    "type": "verb",
+    "engMeaning": "to stamp, to frank",
+    "exampleSentence": "Hast du den Brief schon frankiert?",
+    "id": "b11d7b45-368c-4617-9656-ef37be5d5bc6"
+  },
+  {
+    "germanWord": "einstecken",
+    "type": "verb",
+    "engMeaning": "to post, to pocket",
+    "exampleSentence": "Frank muss den Brief noch einstecken.",
+    "id": "9d3b43ea-d220-40b0-95cb-03763e5b19da"
+  },
+  {
+    "germanWord": "abholen",
+    "type": "verb",
+    "engMeaning": "to collect, to pick sth. up",
+    "exampleSentence": "Clara holt ihr Paket von der Post ab.",
+    "id": "3bacf9d4-dfb8-42f9-aa11-5d76ce3193a5"
+  },
+  {
+    "germanWord": "annehmen",
+    "type": "verb",
+    "engMeaning": "to accept (a parcel)",
+    "exampleSentence": "Ismails Nachbar nimmt gerne Pakete f\u00fcr ihn an.",
+    "id": "b234fa6b-ee5a-43d2-889c-c2ec5f0f209a"
+  },
+  {
+    "germanWord": "liefern",
+    "type": "verb",
+    "engMeaning": "to deliver",
+    "exampleSentence": "Der Pizzabote liefert die Pizza.",
+    "id": "ab3b49c1-6d76-4dd0-94ca-008430481848"
+  }
+]

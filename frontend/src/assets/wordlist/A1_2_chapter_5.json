@@ -1,0 +1,268 @@
+[
+  {
+    "germanWord": "das H\u00e4hnchen",
+    "type": "noun,neutral",
+    "engMeaning": "chicken",
+    "exampleSentence": "Lorna bestellt Reis mit Gem\u00fcse und H\u00e4hnchen.",
+    "id": "6a334460-7ae5-41e1-a744-8d992dbb5ed7"
+  },
+  {
+    "germanWord": "der Tofu",
+    "type": "noun,masculine",
+    "engMeaning": "tofu",
+    "exampleSentence": "Ich nehme das Gem\u00fcsecurry mit Tofu.",
+    "id": "9cdabede-6767-4efc-8462-eb4235b961fc"
+  },
+  {
+    "germanWord": "das Rind(fleisch)",
+    "type": "noun,neutral",
+    "engMeaning": "beef",
+    "exampleSentence": "Magst du Steak? - Nein, ich esse kein Rindfleisch.",
+    "id": "41b8017a-c753-4cc8-82e7-a53f9dc5cdc5"
+  },
+  {
+    "germanWord": "das Schwein(efleisch)",
+    "type": "noun,neutral",
+    "engMeaning": "pork",
+    "exampleSentence": "Viele Menschen essen aus religi\u00f6sen Gr\u00fcnden kein Schwein(efleisch).",
+    "id": "bcd59e83-8607-41de-a863-aa8760271dc9"
+  },
+  {
+    "germanWord": "das Huhn",
+    "type": "noun,neutral",
+    "engMeaning": "chicken, hen",
+    "exampleSentence": "Ein Huhn ist ein Vogel.",
+    "id": "aad03e39-3bed-49c8-b30b-abcce74f3016"
+  },
+  {
+    "germanWord": "der Fisch",
+    "type": "noun,masculine",
+    "engMeaning": "fish",
+    "exampleSentence": "Willi isst zweimal pro Woche Fisch.",
+    "id": "ac6d3f69-e932-482f-a09f-05f3d3f03bb8"
+  },
+  {
+    "germanWord": "am liebsten",
+    "type": "phrase",
+    "engMeaning": "best, preferably",
+    "exampleSentence": "Am liebsten esse ich Kuchen.",
+    "id": "5adc1d27-3b91-46a4-8e85-bb3f6ca50876"
+  },
+  {
+    "germanWord": "am besten",
+    "type": "phrase",
+    "engMeaning": "best",
+    "exampleSentence": "Omas Schokokuchen schmeckt mir am besten.",
+    "id": "63ca58df-c22a-443f-b527-78617a95f0cb"
+  },
+  {
+    "germanWord": "schmecken",
+    "type": "verb",
+    "engMeaning": "to taste",
+    "exampleSentence": "Schmeckt dir dein Essen?",
+    "id": "df85455f-08cb-4831-901d-8f3f3631ae79"
+  },
+  {
+    "germanWord": "s\u00fc\u00df",
+    "type": "adjective",
+    "engMeaning": "sweet",
+    "exampleSentence": "Datteln schmecken s\u00fc\u00df.",
+    "id": "1a491cad-e093-48bd-a8b3-edf2ff004a2f"
+  },
+  {
+    "germanWord": "scharf",
+    "type": "adjective",
+    "engMeaning": "spicy",
+    "exampleSentence": "Pfeffer ist scharf.",
+    "id": "d592595e-ea09-41f8-8373-9999a4358d2a"
+  },
+  {
+    "germanWord": "sauer",
+    "type": "adjective",
+    "engMeaning": "sour",
+    "exampleSentence": "Limetten sind sauer.",
+    "id": "682246c4-d569-4083-bbc2-60d6b7992e5e"
+  },
+  {
+    "germanWord": "salzig",
+    "type": "adjective",
+    "engMeaning": "salty",
+    "exampleSentence": "Pommes sind salzig.",
+    "id": "d7bbce67-0f4d-402a-9492-36df48293918"
+  },
+  {
+    "germanWord": "bitter",
+    "type": "adjective",
+    "engMeaning": "Radicchio schmeckt bitter.",
+    "exampleSentence": "umami adjective",
+    "id": "a53f47f7-3a26-4ac1-8299-a7f7201949c2"
+  },
+  {
+    "germanWord": "umami",
+    "type": "adjective",
+    "engMeaning": "Pilze schmecken umami.",
+    "exampleSentence": "Vorspeise noun,feminine",
+    "id": "e9f794f1-3139-41a3-a47c-91a5709875a0"
+  },
+  {
+    "germanWord": "die Vorspeise",
+    "type": "noun,feminine",
+    "engMeaning": "starter, appetiser",
+    "exampleSentence": "Was gibt es als Vorspeise?",
+    "id": "d6354850-e2a1-4a21-9ebb-446a5357d8c0"
+  },
+  {
+    "germanWord": "die Hauptspeise",
+    "type": "noun,feminine",
+    "engMeaning": "main dish",
+    "exampleSentence": "Was gibt es als Hauptspeise?",
+    "id": "7e881963-4bd3-4cc0-816d-ed75101b9932"
+  },
+  {
+    "germanWord": "die Nachspeise",
+    "type": "noun,feminine",
+    "engMeaning": "dessert",
+    "exampleSentence": "Was gibt es als Nachspeise?",
+    "id": "12190a04-4b7d-4424-80e4-d3a14237bfe9"
+  },
+  {
+    "germanWord": "essen gehen",
+    "type": "verb",
+    "engMeaning": "to eat out",
+    "exampleSentence": "Wir wollen am Samstag essen gehen.",
+    "id": "6dbc9d02-2002-4950-aa74-6cdaca1bea5b"
+  },
+  {
+    "germanWord": "Wie war\u2018s?",
+    "type": "phrase",
+    "engMeaning": "How was it (the food)?",
+    "exampleSentence": "Du warst schon in dem neuen Restaurant, oder? Wie war's?",
+    "id": "9531a672-9d39-4e81-bc1a-31162492c357"
+  },
+  {
+    "germanWord": "Bombe sein",
+    "type": "phrase",
+    "engMeaning": "really good, amazing (colloquial)",
+    "exampleSentence": "Das Essen hat richtig gut geschmeckt, das war Bombe!",
+    "id": "b8413cc0-9346-4174-b478-a4516d6c91df"
+  },
+  {
+    "germanWord": "das Gericht",
+    "type": "noun,neutral",
+    "engMeaning": "dish",
+    "exampleSentence": "Welches Gericht nimmst du?",
+    "id": "4bf57312-2072-4be1-afd6-6c21b4d87444"
+  },
+  {
+    "germanWord": "empfehlen",
+    "type": "verb",
+    "engMeaning": "to recommend",
+    "exampleSentence": "Welchen Nachtisch kannst du empfehlen?",
+    "id": "a5533372-0bf9-4e8a-bb8a-113a59182f97"
+  },
+  {
+    "germanWord": "zufrieden",
+    "type": "adjective",
+    "engMeaning": "pleased, satisfied",
+    "exampleSentence": "Wie ist das Restaurant? Wart ihr zufrieden?",
+    "id": "0aad227e-eea0-4c13-ba1c-c29e9fad1acb"
+  },
+  {
+    "germanWord": "gerade (jetzt)",
+    "type": "adverb",
+    "engMeaning": "right now",
+    "exampleSentence": "Ich habe gerade Appetit auf Pizza.",
+    "id": "d996802a-9259-4e6d-b7d3-164fb5dd79dc"
+  },
+  {
+    "germanWord": "vorhin",
+    "type": "adverb",
+    "engMeaning": "earlier on, a short while ago",
+    "exampleSentence": "Ich habe vorhin Stefan und Elisa getroffen.",
+    "id": "f4b5263b-a4c3-4d18-a82d-4e67d7e92ba2"
+  },
+  {
+    "germanWord": "der Appetit",
+    "type": "noun,masculine",
+    "engMeaning": "appetite",
+    "exampleSentence": "Auf was hast du Appetit?",
+    "id": "56260260-11e8-49ed-a238-29b2bc22e58f"
+  },
+  {
+    "germanWord": "Lust haben auf",
+    "type": "phrase",
+    "engMeaning": "to fancy sth. / to be up for sth.",
+    "exampleSentence": "Hast du Lust auf Indisch?",
+    "id": "f909687a-ec21-4989-9b58-50b6508e056c"
+  },
+  {
+    "germanWord": "die Vegetarier; Vegetarierin noun,masculine /",
+    "type": "feminine",
+    "engMeaning": "vegetarian (person)",
+    "exampleSentence": "Bist du Vegetarier?",
+    "id": "745d91d4-ee97-4beb-afa6-ceef66b534b9"
+  },
+  {
+    "germanWord": "der Hunger",
+    "type": "noun,masculine",
+    "engMeaning": "hunger",
+    "exampleSentence": "Hast du schon Hunger? M\u00f6chtest du etwas essen?",
+    "id": "32cec74d-4ad8-4ab2-a613-ab4aaa880196"
+  },
+  {
+    "germanWord": "reservieren",
+    "type": "verb",
+    "engMeaning": "to book",
+    "exampleSentence": "Guten Tag, ich w\u00fcrde gerne einen Tisch f\u00fcr vier Personen reservieren.",
+    "id": "60b85a60-cd80-476c-a88b-5484d247f1da"
+  },
+  {
+    "germanWord": "nichts mehr",
+    "type": "phrase",
+    "engMeaning": "no more / nothing more",
+    "exampleSentence": "Wir haben heute leider nichts mehr frei.",
+    "id": "7626a79a-afcb-4885-aed3-d158c8b4369b"
+  },
+  {
+    "germanWord": "frei",
+    "type": "adjective",
+    "engMeaning": "free",
+    "exampleSentence": "Haben Sie um 20:00 Uhr noch einen Tisch frei?",
+    "id": "aa0bc2bb-8c0f-433c-b84c-4f0da50e0be1"
+  },
+  {
+    "germanWord": "jm. etw. anbieten",
+    "type": "verb",
+    "engMeaning": "to offer sth. sb.",
+    "exampleSentence": "Ich kann Ihnen einen Tisch um 20:00 Uhr anbieten.",
+    "id": "df2fd57e-13b2-473f-bc28-c384d38232eb"
+  },
+  {
+    "germanWord": "zu zweit, zu dritt, zu viert",
+    "type": "adverb",
+    "engMeaning": "in sets (in a group) of two, three, four",
+    "exampleSentence": "Wir sind zu zweit.",
+    "id": "59a1d97a-c7af-408b-b9ff-7b961fede5fd"
+  },
+  {
+    "germanWord": "Was darf\u2018s sein?",
+    "type": "phrase",
+    "engMeaning": "What would you like?",
+    "exampleSentence": "Guten Tag, was darf's sein?",
+    "id": "7dfc060b-93a3-44a2-8a36-bb0c2db944c1"
+  },
+  {
+    "germanWord": "Alles klar!",
+    "type": "phrase",
+    "engMeaning": "All clear. / Say no more.",
+    "exampleSentence": "Die Tofubolognese und ein Wasser. Alles klar!",
+    "id": "33027151-aac1-4494-8d54-043c14c29711"
+  },
+  {
+    "germanWord": "Kommt sofort!",
+    "type": "phrase",
+    "engMeaning": "Coming up!",
+    "exampleSentence": "Ihre Bestellung kommt sofort!",
+    "id": "4a3af975-4754-463d-95f6-8f980161ff82"
+  }
+]

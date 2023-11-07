@@ -1,0 +1,317 @@
+[
+  {
+    "germanWord": "die Jacke",
+    "type": "noun,feminine",
+    "engMeaning": "coat, jacket",
+    "exampleSentence": "Brauchst du eine Jacke?",
+    "id": "7d9e9e15-f4d9-4a3c-8432-96223591dcb0"
+  },
+  {
+    "germanWord": "der Schuh",
+    "type": "noun,masculine",
+    "engMeaning": "shoe",
+    "exampleSentence": "Wie findest du meine neuen Schuhe?",
+    "id": "9ea79265-e8f5-44be-80b1-7bd8c6c4ca06"
+  },
+  {
+    "germanWord": "der Pullover; Pulli",
+    "type": "noun,masculine",
+    "engMeaning": "pullover",
+    "exampleSentence": "Der Pulli sieht gem\u00fctlich aus!",
+    "id": "bd72e4af-e788-46aa-8a95-dcd095763b07"
+  },
+  {
+    "germanWord": "die Jeans",
+    "type": "noun,feminine",
+    "engMeaning": "jeans",
+    "exampleSentence": "Meine Jeans sind dreckig.",
+    "id": "4756ae5d-aca1-44c6-8015-ef0979f1df54"
+  },
+  {
+    "germanWord": "die Socke",
+    "type": "noun,feminine",
+    "engMeaning": "sock",
+    "exampleSentence": "Alle meine Socken haben L\u00f6cher.",
+    "id": "0d04a139-f621-432e-8fbc-cfb6721d9762"
+  },
+  {
+    "germanWord": "das T-Shirt",
+    "type": "noun,neutral",
+    "engMeaning": "t-shirt",
+    "exampleSentence": "Im Sommer trage ich T-Shirts.",
+    "id": "26589037-44d6-4398-be44-2a018e58f6cd"
+  },
+  {
+    "germanWord": "der Hut",
+    "type": "noun,masculine",
+    "engMeaning": "hat",
+    "exampleSentence": "Der Hut steht dir gut!",
+    "id": "1e025c25-40db-4a93-b154-68c23433ea04"
+  },
+  {
+    "germanWord": "der Rock",
+    "type": "noun,masculine",
+    "engMeaning": "skirt",
+    "exampleSentence": "Manche Frauen tragen gerne R\u00f6cke.",
+    "id": "0a026594-c43e-4857-b0af-4feeeb6de94b"
+  },
+  {
+    "germanWord": "der Anzug",
+    "type": "noun,masculine",
+    "engMeaning": "suit",
+    "exampleSentence": "Wann tr\u00e4gst du einen Anzug?",
+    "id": "d8f1061e-3f43-4a84-b9b4-938c8794e2c1"
+  },
+  {
+    "germanWord": "die Bluse",
+    "type": "noun,feminine",
+    "engMeaning": "blouse",
+    "exampleSentence": "Die wei\u00dfe Bluse ist aber sch\u00f6n!",
+    "id": "e73ec70c-83ff-4225-826f-d291fa3981c2"
+  },
+  {
+    "germanWord": "die Hose",
+    "type": "noun,feminine",
+    "engMeaning": "pants, trousers",
+    "exampleSentence": "Ich trage lieber Hosen als R\u00f6cke.",
+    "id": "9d8cc3f2-b1d3-4b32-a0db-20fc9598436a"
+  },
+  {
+    "germanWord": "das Kleid",
+    "type": "noun,neutral",
+    "engMeaning": "dress, gown",
+    "exampleSentence": "Das Kleid ist etwas zu kurz f\u00fcr mich.",
+    "id": "80b39b93-e0f7-4f64-a64c-98d810f46fac"
+  },
+  {
+    "germanWord": "die Klamotte",
+    "type": "noun,feminine",
+    "engMeaning": "piece of clothing (informal)",
+    "exampleSentence": "Welche Klamotten tr\u00e4gst du am liebsten?",
+    "id": "b6849913-8c93-49aa-aab6-be28e322302a"
+  },
+  {
+    "germanWord": "tragen",
+    "type": "verb",
+    "engMeaning": "to wear",
+    "exampleSentence": "Tr\u00e4gst du gern schicke Klamotten?",
+    "id": "0d2ab8ab-f34d-4ab3-866a-acda1df7bc92"
+  },
+  {
+    "germanWord": "schwarz",
+    "type": "adjective",
+    "engMeaning": "black",
+    "exampleSentence": "Meine Schuhe sind schwarz.",
+    "id": "2ec46b50-4a07-4b76-ad42-662498eee89a"
+  },
+  {
+    "germanWord": "wei\u00df",
+    "type": "adjective",
+    "engMeaning": "white",
+    "exampleSentence": "Deine Bluse ist wei\u00df.",
+    "id": "4a7b1264-867a-42e9-b4de-fa0152205a36"
+  },
+  {
+    "germanWord": "grau",
+    "type": "adjective",
+    "engMeaning": "gray",
+    "exampleSentence": "Sarahs Jeans sind grau.",
+    "id": "47a5bf4d-9199-4472-8966-01c6b0236754"
+  },
+  {
+    "germanWord": "rot",
+    "type": "adjective",
+    "engMeaning": "red",
+    "exampleSentence": "Rot und blau ist lila.",
+    "id": "00c75778-788b-44f9-a4f7-a9ef7da037f1"
+  },
+  {
+    "germanWord": "blau",
+    "type": "adjective",
+    "engMeaning": "blue",
+    "exampleSentence": "Blau und gelb ist gr\u00fcn.",
+    "id": "7da3cf9b-a42f-4903-b1a6-b43ac5e7fdca"
+  },
+  {
+    "germanWord": "gelb",
+    "type": "adjective",
+    "engMeaning": "yellow",
+    "exampleSentence": "Gelb und rot ist orange.",
+    "id": "0013d38c-4da1-4012-812d-53dd16b843a3"
+  },
+  {
+    "germanWord": "lila",
+    "type": "adjective",
+    "engMeaning": "purple",
+    "exampleSentence": "Wie hei\u00dfen die lila Blumen?",
+    "id": "befca4dd-0f6f-4ca2-bc58-add5a40a0b8b"
+  },
+  {
+    "germanWord": "gr\u00fcn",
+    "type": "adjective",
+    "engMeaning": "green",
+    "exampleSentence": "Die B\u00e4ume sind gr\u00fcn.",
+    "id": "0975b200-e05f-4265-aadf-9b5f4fbf8d8a"
+  },
+  {
+    "germanWord": "orange",
+    "type": "adjective",
+    "engMeaning": "Karotten sind orange.",
+    "exampleSentence": "pink adjective",
+    "id": "4422dad8-9cc8-49f7-b198-9d3fc373bbce"
+  },
+  {
+    "germanWord": "pink",
+    "type": "adjective",
+    "engMeaning": "Ich habe viele pinke Klamotten.",
+    "exampleSentence": "John und Louise haben ein modernes Sofa.",
+    "id": "0df5e575-8ffd-4d35-88a9-a7031e20f7f0"
+  },
+  {
+    "germanWord": "h\u00e4sslich",
+    "type": "adjective",
+    "engMeaning": "ugly, nasty",
+    "exampleSentence": "Ich finde das Sofa leider h\u00e4sslich.",
+    "id": "93d8a6cf-5d82-4dde-8768-481d8aff5c79"
+  },
+  {
+    "germanWord": "elegant",
+    "type": "adjective",
+    "engMeaning": "smart, fashionable",
+    "exampleSentence": "Das Sofa sieht sehr elegant aus.",
+    "id": "3dc37288-310d-4eb6-8fa8-a71b2cc6753e"
+  },
+  {
+    "germanWord": "gestreift",
+    "type": "adjective",
+    "engMeaning": "striped",
+    "exampleSentence": "Larissa tr\u00e4gt ein gestreiftes T-Shirt.",
+    "id": "5ce7bdf9-16ce-4bee-9511-d255b982b677"
+  },
+  {
+    "germanWord": "kariert",
+    "type": "adjective",
+    "engMeaning": "chequered",
+    "exampleSentence": "Gregors Hemd ist kariert.",
+    "id": "ca399c90-4898-444f-93ab-8d508335de5c"
+  },
+  {
+    "germanWord": "cool",
+    "type": "adjective",
+    "engMeaning": "cool, awesome",
+    "exampleSentence": "Ronja hat ein cooles Outfit an.",
+    "id": "24ffd3ee-90ac-4eb6-a0ad-4f819011daba"
+  },
+  {
+    "germanWord": "schick",
+    "type": "adjective",
+    "engMeaning": "fancy, fashionable",
+    "exampleSentence": "Die schicke Bluse zieht Ines nur zu besonderen Events an.",
+    "id": "7329dfb4-825f-4ebf-97c8-2b065e9bdbdd"
+  },
+  {
+    "germanWord": "langweilig",
+    "type": "adjective",
+    "engMeaning": "boring",
+    "exampleSentence": "Ich finde graue Klamotten langweilig.",
+    "id": "e694f5aa-8645-4e21-8832-7d79f41d4f6a"
+  },
+  {
+    "germanWord": "schrecklich",
+    "type": "adjective",
+    "engMeaning": "awful, dreadful",
+    "exampleSentence": "Ich finde diese Bluse schrecklich.",
+    "id": "76f07bcf-b28f-4c11-a74d-fd50eeaa5d37"
+  },
+  {
+    "germanWord": "komisch",
+    "type": "adjective",
+    "engMeaning": "funny, odd",
+    "exampleSentence": "Das Kleid sieht komisch aus.",
+    "id": "adc31cab-f5f3-4cef-aec4-da3d51d707fd"
+  },
+  {
+    "germanWord": "passen zu",
+    "type": "verb",
+    "engMeaning": "to correspond to sth., to fit in with sth.",
+    "exampleSentence": "Die Schuhe passen nicht zum Outfit.",
+    "id": "07f97a48-b272-4206-906e-fcecb1dd1330"
+  },
+  {
+    "germanWord": "braun",
+    "type": "adjective",
+    "engMeaning": "brown",
+    "exampleSentence": "Die braune Jacke sieht cool aus!",
+    "id": "22d5c01e-d08c-4b62-baae-2268dd60e44c"
+  },
+  {
+    "germanWord": "passen",
+    "type": "verb",
+    "engMeaning": "to fit",
+    "exampleSentence": "Passen dir die Schuhe?",
+    "id": "53ea81e2-37c1-4f44-a4ce-ac2a13967f29"
+  },
+  {
+    "germanWord": "gefallen",
+    "type": "verb",
+    "engMeaning": "to appeal to sb., to please sb.",
+    "exampleSentence": "Gef\u00e4llt dir der Rock?",
+    "id": "d2c3854c-3ed6-492e-afca-555587625aad"
+  },
+  {
+    "germanWord": "weit",
+    "type": "adjective",
+    "engMeaning": "wide",
+    "exampleSentence": "Das T-Shirt ist ein bisschen zu weit.",
+    "id": "d75c7fac-91f6-4ee5-9557-b46718ae5da5"
+  },
+  {
+    "germanWord": "eng",
+    "type": "adjective",
+    "engMeaning": "tight",
+    "exampleSentence": "Die Jacke ist leider zu eng.",
+    "id": "49e54a35-c026-4e29-8908-bd3a9b8dee05"
+  },
+  {
+    "germanWord": "kaputt",
+    "type": "adjective",
+    "engMeaning": "broken, bust",
+    "exampleSentence": "Die Jeans ist ein bisschen kaputt.",
+    "id": "d2dce0de-d7a0-4e23-94d3-249380f9c880"
+  },
+  {
+    "germanWord": "der Rabatt",
+    "type": "noun,masculine",
+    "engMeaning": "discount",
+    "exampleSentence": "An der Hose fehlt ein Knopf. Ich gebe Ihnen einen Rabatt.",
+    "id": "6811fd3f-af7d-44c8-8136-8ea5b6856567"
+  },
+  {
+    "germanWord": "reduziert",
+    "type": "adjective",
+    "engMeaning": "reduced",
+    "exampleSentence": "Das Kleid war eigentlich ziemlich teuer, aber ich habe es reduziert",
+    "id": "aedeb2e7-8527-4a26-a57a-ef7d7dc6e4d8"
+  },
+  {
+    "germanWord": "die Umkleide",
+    "type": "noun,feminine",
+    "engMeaning": "fitting room",
+    "exampleSentence": "In der Umkleide kann man Kleidung anprobieren.",
+    "id": "09fcb92f-1e8b-49a0-94ae-1ec46250b908"
+  },
+  {
+    "germanWord": "anprobieren",
+    "type": "verb",
+    "engMeaning": "to try on sth., to fit",
+    "exampleSentence": "M\u00f6chtest du das Kleid mal anprobieren?",
+    "id": "6dc46534-6063-4528-b6fd-f8b0a9f1d0b7"
+  },
+  {
+    "germanWord": "das Schn\u00e4ppchen",
+    "type": "noun,neutral",
+    "engMeaning": "bargain, deal",
+    "exampleSentence": "Die Jeans kosten nur 25 \u20ac! Das ist ja ein Schn\u00e4ppchen!",
+    "id": "d1552794-5f25-4880-b6bf-351967ec5a44"
+  }
+]
